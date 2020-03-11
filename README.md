@@ -15,7 +15,7 @@ Algorithms
 ------------
 The maze is composed of:
 
-      a board which is a 2-dimensional array (each cell has coordinate and a boolean value)
+      a board which is a 2-dimensional array 40x30 (each cell has coordinate and a boolean value)
       
       a starting point
       
