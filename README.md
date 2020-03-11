@@ -1,7 +1,7 @@
 Maze-python
 ==============================
 
-Project of a maze generator in Python 3.8
+Project of a maze generator in Python 3.8+
 
 Getting Started
 ------------
